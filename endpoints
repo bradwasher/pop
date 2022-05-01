@@ -1,0 +1,4 @@
+Drop Bear:127.0.0.1:443
+Tinyshell:8.8.8.8:53
+SSH:127.0.0.1:22
+Meterpreter:127.0.0.0:53
